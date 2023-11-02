@@ -2,6 +2,6 @@
 
 <template>
   <el-row>
-    <el-col xl="6">Hello world</el-col>
+    <el-col>Hello world</el-col>
   </el-row>
 </template>
